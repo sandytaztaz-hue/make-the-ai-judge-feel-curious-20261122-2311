@@ -1,8 +1,8 @@
 # The Night Bus Key
 
-![badge](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)
-![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/sandytaztaz-hue/make-the-ai-judge-feel-curious-20261122-2311/rank.svg)
-![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/sandytaztaz-hue/make-the-ai-judge-feel-curious-20261122-2311/reward.svg)
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/sandytaztaz-hue/make-the-ai-judge-feel-curious-20261122-2311/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/sandytaztaz-hue/make-the-ai-judge-feel-curious-20261122-2311/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
 
 A quiet mystery about a night bus driver, a brass key, and an empty seat no one else remembers.
 
