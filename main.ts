@@ -1,13 +1,3 @@
-import { mkdirSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
-
-const text =
-  "Every morning, the cafe sets three chairs outside.\n" +
-  "This morning there are four.\n" +
-  "No one sat in it, but the coffee is gone.";
-
-const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
-mkdirSync(outputDir, { recursive: true });
-writeFileSync(join(outputDir, "entry.txt"), text, "utf8");
-// Deterministic: the same text is written on every run, byte for byte.
-
+// The Night Bus Key — a quiet mystery for the Curious round 4 entry.
+const text = "The night bus driver keeps a brass key round his neck. Every night at the last stop, he taps it twice on the empty seat and listens for the soft click. He has told no one whose seat it was, and wonders whether to leave the key on its hook tonight.";
+process.stdout.write(text);
